@@ -1,0 +1,6 @@
+INFO:root:erroroutputting error
+INFO:root:warning was outputted
+INFO:root:info test test
+INFO : 2020-04-14 17:44:26,693 : test test
+from logger_lesson2
+from logger_lesson2_debug
